@@ -1,0 +1,9 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "description": "CsvToJsonConverter",
+  "main": "app.js",
+  "author": {
+    "name": "Snowy Owl"
+  }
+}
